@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://mm4lpgren6py"]
+
+[node name="Scene2Opening" type="Node2D"]
+
+[node name="principal" type="Sprite2D" parent="."]

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://blt4jymfq6g1c"]
+
+[ext_resource type="Script" uid="uid://bimrvv4kh2bgu" path="res://scene_2_battle.tscn.gd" id="1_gccbv"]
+
+[node name="Scene2Battle_tscn" type="Node2D"]
+script = ExtResource("1_gccbv")
