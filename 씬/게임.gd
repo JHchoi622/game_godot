@@ -221,7 +221,7 @@ func go_to_scene2():
 	if FileAccess.file_exists(next_scene_path):
 		get_tree().change_scene_to_file(next_scene_path)
 	else:
-		print("에러: 장면 2를 찾을 수 없습니다: " + next_scene_path)
+		print("error: 장면 2를 찾을 수 없습니다: " + next_scene_path)
 
 func _on_timer_timeout():
 	_on_sequence_complete()
